@@ -22,9 +22,12 @@ Go to the Libraries tab and click Add External JARs.
 Navigate to the project's libs folder and select all the JAR files.
 Click Apply and Close.
 
+
 **Run Karate tests:**
 Right-click on the test class or package.
 Select Run As -> JUnit Test.
+![Screenshot](https://github.com/vidhyapasupathy/Karate/blob/master/Images/Run.png)
+
 Karate will execute the tests and display the results in the Eclipse console.
 
 **Reporting**
