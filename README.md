@@ -32,5 +32,7 @@ Karate will execute the tests and display the results in the Eclipse console.
 
 **Reporting**
 The project uses the built-in Karate HTML reports for test reporting. After running your tests, a target directory will be created. Open the target/karate-reports/index.html file in a web browser to view the test report.
+![Screenshot](https://github.com/vidhyapasupathy/Karate/blob/master/Images/reports.png)
+
 
 
